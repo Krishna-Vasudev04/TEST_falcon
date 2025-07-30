@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 50px auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>This is a sample privacy policy for our Jira integration app.</p>
+
+  <p>We do not collect, store, or share any personal information from users.</p>
+
+  <p>The app only accesses Jira APIs with the user's explicit consent, as required by Atlassian's OAuth 2.0 authentication process.</p>
+
+  <p>Any data accessed is used solely for providing features directly related to the Jira integration and is not stored outside the user's Jira account.</p>
+
+  <p>If you have any concerns or questions, please contact us at: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+</body>
+</html>
+
